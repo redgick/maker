@@ -26,7 +26,8 @@ THEME = "pure"
 COVER_IMG_URL = '/theme/sidebar.jpg'
 
 SOCIAL = (
-    ('envelope', 'https://slack.redgick.com/'),
+    ('envelope', 'https://join.slack.com/t/laboitecc/shared_invite/enQtMjc3Mzg0NDc2MjQ1L'
+     'TgzNmNhMjhjMDQ1MjAwMjM1NzNlNDk3ZDU1Yzk3MDE0M2RlMmNjMzczNTUyNDJlMmQ0MWY5YjIyZDdhNDM1MmU'),
     ('rss', SITEURL + 'feeds/all.atom.xml'),
     ('github', 'https://github.com/redgick'),
 )
